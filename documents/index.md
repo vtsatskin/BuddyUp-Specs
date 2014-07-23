@@ -7,9 +7,11 @@ template: index.jade
 
 This is a template for creating beautiful docs, easily.
 
-#### Why Mozilla Docs?
+## User Stories
 
-Because it's awesome, that's why.
+These can be found in the [Google
+Document](https://docs.google.com/a/mozilla.com/spreadsheets/d/1m-SkuCIQEkX6pKP2
+Xb6HRyFCa2yiwJ7suyqCWMCYs7A/edit#gid=0).
 
 ---
 
