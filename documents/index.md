@@ -14,12 +14,27 @@ Document](https://docs.google.com/a/mozilla.com/spreadsheets/d/1m-SkuCIQEkX6pKP2
 Xb6HRyFCa2yiwJ7suyqCWMCYs7A/edit#gid=0).
 
 ---
+## Phase 1
 
-### Design Values
+### A user wants to get help
 
-![Design Values](images/ring@2x.png "Design Values")
-Above is a representation of the Firefox UX teams [Design Values][design-values].
-Design values help us understand the attributes of _Firefoxiness_ and guide us
-as we work.
+[![](images/spec/helpee.png)](images/spec/helpee.png)
 
-[design-values]:https://people.mozilla.org/~dhenein/labs/design-values/
+Covers the following user stories:
+
+* As a Help Requestor, I can confirm the submission of my new question, so that
+a Helper can answer it.
+* As a Help Requestor I can provide feedback about my satisfaction on the help
+provided as I resolve an existing thread, so that I can notify the helper if I
+appreciated his help.
+* As a Help Requestor, I can start typing a question, so that answer suggestions
+are offered to me before I submit the question.
+* As a Help Requestor, I can add a comment to my new discussion thread, so that
+further clarification gets provided by a helper.
+* As a Help Requestor I can select a suggested answer, so that I am taken to an
+existing discussion thread addressing my question.
+* As a Help Requestor, I can add a comment to my new discussion thread, so that
+further clarification gets provided by a helper.
+
+
+
