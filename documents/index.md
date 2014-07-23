@@ -13,7 +13,6 @@ These can be found in the [Google
 Document](https://docs.google.com/a/mozilla.com/spreadsheets/d/1m-SkuCIQEkX6pKP2
 Xb6HRyFCa2yiwJ7suyqCWMCYs7A/edit#gid=0).
 
----
 ## Phase 1
 
 ### A user wants to get help
