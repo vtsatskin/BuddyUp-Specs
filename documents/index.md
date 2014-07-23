@@ -5,7 +5,7 @@ template: index.jade
 
 ## Overview
 
-This is a template for creating beautiful docs, easily.
+TODO
 
 ## User Stories
 
