@@ -37,3 +37,15 @@ further clarification gets provided by a helper.
 
 
 
+### Helper login
+
+Helping requires a Firefox Account (FxA).
+
+[![](images/spec/helper-login.png)](images/spec/helper-login.png)
+
+Covers the following user stories:
+
+* As a Helper, can sign into FxA so that I get authenticated as a BuddyUp
+helper.
+* As a helper with a phone already signed into FxA, my FxA identity is used
+automatically so that I get authenticated as a BuddyUp helper
