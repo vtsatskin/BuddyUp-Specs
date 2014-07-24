@@ -53,6 +53,9 @@ automatically so that I get authenticated as a BuddyUp helper
 
 ### Helper profile
 
+Preferred setting are automatically generated from information on current
+device.
+
 [![](images/spec/helper-profile.png)](images/spec/helper-profile.png)
 
 A helper can select a photo from the device.
