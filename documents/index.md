@@ -77,3 +77,14 @@ chronological order, so that I can decide which request I want to address.
 * As a helper I can select a question so that I can add a comment and get visual
 confirmation of submission.
 
+### Helper-helpee conversation flow
+
+[![](images/spec/conversation.png)](images/spec/conversation.png)
+
+Covers the following user stories:
+
+* As a Help Requestor I can resolve my new discussion thread, so that I can
+notify the helper that I have an answer to my question.
+* As a Help Requestor I provide feedback about my satisfaction on the help
+provided as I resolve my new discussion thread, so that I can notify the helper
+if I appreciated his help.
