@@ -49,3 +49,16 @@ Covers the following user stories:
 helper.
 * As a helper with a phone already signed into FxA, my FxA identity is used
 automatically so that I get authenticated as a BuddyUp helper
+
+
+### Helper profile
+
+[![](images/spec/helper-profile.png)](images/spec/helper-profile.png)
+
+A helper can select a photo from the device.
+
+[![](images/spec/helper-photo-select.png)](images/spec/helper-photo-select.png)
+
+Covers the following user stories:
+
+* As a Helper, I can set a friendly name, my preferred languages, my preferred operator and my preferred handset, so that I can define my profile.
