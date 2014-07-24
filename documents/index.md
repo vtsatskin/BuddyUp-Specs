@@ -65,3 +65,15 @@ A helper can select a photo from the device.
 Covers the following user stories:
 
 * As a Helper, I can set a friendly name, my preferred languages, my preferred operator and my preferred handset, so that I can define my profile.
+
+### A user wants to give help
+
+[![](images/spec/helper.png)](images/spec/helper.png)
+
+Covers the following user stories:
+
+* As a Helper, I can see a list of help requests matching my skills in
+chronological order, so that I can decide which request I want to address.
+* As a helper I can select a question so that I can add a comment and get visual
+confirmation of submission.
+
