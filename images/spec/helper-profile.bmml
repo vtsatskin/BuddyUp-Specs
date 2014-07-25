@@ -38,7 +38,7 @@
             </control>
           </groupChildrenDescriptors>
         </control>
-        <control controlID="40" controlTypeID="com.balsamiq.mockups::Icon" x="34" y="163" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="0">
+        <control controlID="40" controlTypeID="com.balsamiq.mockups::Icon" x="34" y="163" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="12" locked="false" isInGroup="0">
           <controlProperties>
             <icon>HandPointIcon%7Cmedium</icon>
           </controlProperties>
@@ -49,6 +49,72 @@
           </controlProperties>
         </control>
         <control controlID="46" controlTypeID="com.balsamiq.mockups::HRule" x="27" y="174" w="228" h="-1" measuredW="100" measuredH="10" zOrder="5" locked="false" isInGroup="0"/>
+        <control controlID="47" controlTypeID="__group__" x="27" y="256" w="228" h="40" measuredW="228" measuredH="40" zOrder="6" locked="false" isInGroup="0">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Paragraph" x="30" y="0" w="188" h="31" measuredW="275" measuredH="80" zOrder="0" locked="false" isInGroup="47">
+              <controlProperties>
+                <text>*How%20do%20I%20take%20a%20screenshot%3F*%0A3%20minutes%20ago%2C%200%20replies</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="30" w="228" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="47"/>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="6" y="6" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="47">
+              <controlProperties>
+                <icon>DotIcon%7Cxsmall</icon>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="48" controlTypeID="__group__" x="27" y="225" w="228" h="30" measuredW="228" measuredH="30" zOrder="7" locked="false" isInGroup="0">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="9" y="0" w="152" h="-1" measuredW="143" measuredH="20" zOrder="0" locked="false" isInGroup="48">
+              <controlProperties>
+                <bold>true</bold>
+                <text>Unanswered%20questions</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="20" w="228" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="48"/>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="49" controlTypeID="__group__" x="27" y="303" w="228" h="40" measuredW="228" measuredH="40" zOrder="8" locked="false" isInGroup="0">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Paragraph" x="30" y="0" w="188" h="31" measuredW="275" measuredH="80" zOrder="0" locked="false" isInGroup="49">
+              <controlProperties>
+                <text>*My%20device%20won%27t%20reboot%2C%20%u2026*%0A30%20minutes%20ago%2C%200%20replies</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="30" w="228" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="49"/>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="6" y="6" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="49">
+              <controlProperties>
+                <icon>DotIcon%7Cxsmall</icon>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="50" controlTypeID="__group__" x="27" y="351" w="228" h="40" measuredW="228" measuredH="40" zOrder="9" locked="false" isInGroup="0">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Paragraph" x="30" y="0" w="188" h="31" measuredW="275" measuredH="80" zOrder="0" locked="false" isInGroup="50">
+              <controlProperties>
+                <text>*I%20can%27t%20open%20the%20marketplace*%0A3%20days%20ago%2C%201%20reply</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="30" w="228" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="50"/>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="51" controlTypeID="__group__" x="27" y="398" w="228" h="40" measuredW="228" measuredH="40" zOrder="10" locked="false" isInGroup="0">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Paragraph" x="30" y="0" w="188" h="31" measuredW="275" measuredH="80" zOrder="0" locked="false" isInGroup="51">
+              <controlProperties>
+                <text>*Can%27t%20set%20my%20timezone*%0A5%20days%20ago%2C%203%20replies</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="30" w="228" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="51"/>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="52" controlTypeID="com.balsamiq.mockups::TextInput" x="38" y="187" w="201" h="-1" measuredW="134" measuredH="23" zOrder="11" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>Search%20for%20a%20question</text>
+          </controlProperties>
+        </control>
       </groupChildrenDescriptors>
     </control>
     <control controlID="3" controlTypeID="__group__" x="364" y="104" w="282" h="738" measuredW="282" measuredH="738" zOrder="1" locked="false" isInGroup="-1">
