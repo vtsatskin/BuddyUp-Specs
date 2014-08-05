@@ -108,3 +108,24 @@ notify the helper that I have an answer to my question.
 * As a Help Requestor I provide feedback about my satisfaction on the help
 provided as I resolve my new discussion thread, so that I can notify the helper
 if I appreciated his help.
+
+### Notifications
+
+#### (Helpee) New comment on a discussion thread
+
+[![](images/spec/new-comment-notification.png)](images/spec/new-comment-notification.png)
+
+Covers the following user stories:
+
+* As a Help Requestor, I get a OS notification when someone added a comment on
+one of my discussion threads, so that I can review it quickly.
+
+#### (Helper) New comment on a discussion thread
+
+[![](images/spec/new-comment-notification-helper.png)](images/spec/new-comment-notification-helper.png)
+
+Covers the following user stories:
+
+* As a helper I receive OS notifications when new comments are added by the Help
+Requester on a thread I already commented, so that I can provide further
+clarifications.
