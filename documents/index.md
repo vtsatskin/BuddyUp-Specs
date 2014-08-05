@@ -86,6 +86,20 @@ Covers the following user stories:
 
 * As a Helper, I can set a friendly name, my preferred languages, my preferred operator and my preferred handset, so that I can define my profile.
 
+
+### Helper settings
+
+[![](images/spec/helper-settings.png)](images/spec/helper-settings.png)
+
+Covers the following user stories:
+
+* As a Helper, I can set a friendly name, my preferred languages, my preferred operator and my preferred handset, so that I can define my profile.
+* As a helper I can opt-out from receiving "new question" notifications so that
+I can stop being notified when it suits me.
+* As a helper I can opt-out from receiving "New comment on already commented
+threads" notifications so that I can stop being notified when it suits me.
+
+
 ### A user wants to give help
 
 [![](images/spec/helper.png)](images/spec/helper.png)
