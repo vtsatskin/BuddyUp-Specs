@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="961" measuredH="848" mockupW="921" mockupH="744">
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="961" measuredH="842" mockupW="921" mockupH="738">
   <controls>
     <control controlID="0" controlTypeID="__group__" x="40" y="104" w="282" h="738" measuredW="282" measuredH="738" zOrder="0" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
@@ -131,15 +131,15 @@
             </control>
           </groupChildrenDescriptors>
         </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="234" h="-1" measuredW="146" measuredH="20" zOrder="1" locked="false" isInGroup="3">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="234" h="-1" measuredW="94" measuredH="20" zOrder="1" locked="false" isInGroup="3">
           <controlProperties>
             <bold>true</bold>
-            <text>1.0%20Helper%20home%20screen</text>
+            <text>2.%20Helper%20menu</text>
           </controlProperties>
         </control>
         <control controlID="9" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="636" w="275" h="102" measuredW="275" measuredH="80" zOrder="2" locked="false" isInGroup="3">
           <controlProperties>
-            <text>Helper%20select%20profile%20menu%20item%20in%20drawer.</text>
+            <text>Helper%20selects%20profile%20menu%20item%20in%20drawer.</text>
           </controlProperties>
         </control>
         <control controlID="35" controlTypeID="__group__" x="44" y="148" w="195" h="26" measuredW="195" measuredH="26" zOrder="3" locked="false" isInGroup="3">
@@ -185,7 +185,7 @@
         <control controlID="53" controlTypeID="com.balsamiq.mockups::HRule" x="27" y="269" w="228" h="-1" measuredW="100" measuredH="10" zOrder="11" locked="false" isInGroup="3"/>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="4" controlTypeID="__group__" x="679" y="110" w="282" h="738" measuredW="282" measuredH="738" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="__group__" x="679" y="104" w="282" h="738" measuredW="282" measuredH="738" zOrder="2" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="__group__" x="0" y="36" w="282" h="573" measuredW="282" measuredH="573" zOrder="0" locked="true" isInGroup="4">
           <controlProperties>
@@ -199,10 +199,10 @@
             </control>
           </groupChildrenDescriptors>
         </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="234" h="-1" measuredW="146" measuredH="20" zOrder="1" locked="false" isInGroup="4">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="234" h="-1" measuredW="99" measuredH="20" zOrder="1" locked="false" isInGroup="4">
           <controlProperties>
             <bold>true</bold>
-            <text>1.0%20Helper%20home%20screen</text>
+            <text>3.%20Helper%20profile</text>
           </controlProperties>
         </control>
         <control controlID="9" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="636" w="275" h="102" measuredW="275" measuredH="80" zOrder="2" locked="false" isInGroup="4">
