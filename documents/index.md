@@ -43,6 +43,9 @@ further clarification gets provided by a helper.
 existing discussion thread addressing my question.
 * As a Help Requestor, I can add a comment to my new discussion thread, so that
 further clarification gets provided by a helper.
+* As a Help Requestor I can provide feedback about my satisfaction about an
+existing thread, so that I can notify the helper that I appreciated receiving
+help from the existing thread.
 
 
 ### Helpee profile
