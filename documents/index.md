@@ -15,6 +15,15 @@ Xb6HRyFCa2yiwJ7suyqCWMCYs7A/edit#gid=0).
 
 ## Phase 1
 
+### Helpee first run
+
+[![](images/spec/helpee-first-run.png)](images/spec/helpee-first-run.png)
+
+Covers the following user stories:
+
+* As a Help Requestor, I can set a friendly name, so that I can decide how other users identify me.
+
+
 ### A user wants to get help
 
 [![](images/spec/helpee.png)](images/spec/helpee.png)
