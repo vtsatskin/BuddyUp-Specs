@@ -36,6 +36,14 @@ existing discussion thread addressing my question.
 further clarification gets provided by a helper.
 
 
+### Helpee profile
+
+[![](images/spec/helpee-profile.png)](images/spec/helpee-profile.png)
+
+Covers the following user stories:
+
+* As a Help Requestor, I can set a friendly name, so that I can decide how other
+users identify me.
 
 ### Helper login
 
