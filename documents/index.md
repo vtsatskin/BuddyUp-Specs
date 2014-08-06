@@ -110,6 +110,8 @@ Covers the following user stories:
 chronological order, so that I can decide which request I want to address.
 * As a helper I can select a question so that I can add a comment and get visual
 confirmation of submission.
+* As a Helper, I can see my opened discussion threads at the top of the list of
+questions so that I can address them in priority.
 
 ### Helper-helpee conversation flow
 
