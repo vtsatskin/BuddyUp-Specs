@@ -55,6 +55,11 @@ is shown in the header.
 
 [![](images/spec/question-viewers.png)](images/spec/question-viewers.png)
 
+Covers the following user stories:
+
+* As a helper, I can have an indication of the Help Requestor's presence on the
+list of questions, so that I can know if he is still around.
+
 #### Motion
 
 <video src="prototypes/question-viewers.webm" autoplay loop width="220"></video>
