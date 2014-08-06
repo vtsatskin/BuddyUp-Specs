@@ -48,6 +48,18 @@ existing thread, so that I can notify the helper that I appreciated receiving
 help from the existing thread.
 
 
+### Question viewers
+
+We want to give helpees an indication of presence of other people viewing their question. When other users (helpers and helpees) view a question, their presence
+is shown in the header.
+
+[![](images/spec/question-viewers.png)](images/spec/question-viewers.png)
+
+#### Motion
+
+<video src="prototypes/question-viewers.webm" autoplay loop width="220"></video>
+
+
 ### Helpee profile
 
 [![](images/spec/helpee-profile.png)](images/spec/helpee-profile.png)
