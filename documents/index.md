@@ -103,6 +103,12 @@ Covers the following user stories:
 
 * As a Helper, I can set a friendly name, my preferred languages, my preferred operator and my preferred handset, so that I can define my profile.
 
+### Helper history
+
+As a helper, I can access my resolved and unresolved discussion threads, so that I can get back to the information contained in these threads.
+
+[![](images/spec/helper-history.png)](images/spec/helper-history.png)
+
 
 ### Helper settings
 
