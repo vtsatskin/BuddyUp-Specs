@@ -168,3 +168,7 @@ Covers the following user stories:
 * As a helper I receive OS notifications when new comments are added by the Help
 Requester on a thread I already commented, so that I can provide further
 clarifications.
+
+### Inappropriate question reporting
+
+[![](images/spec/spam-reporting.png)](images/spec/spam-reporting.png)
