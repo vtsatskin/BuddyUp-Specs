@@ -74,6 +74,10 @@ Covers the following user stories:
 * As a Help Requestor, I can set a friendly name, so that I can decide how other
 users identify me.
 
+### Question history
+
+[![](images/spec/helpee-history.png)](images/spec/helpee-history.png)
+
 ### Notifications
 
 #### (Helpee) New comment on a discussion thread
