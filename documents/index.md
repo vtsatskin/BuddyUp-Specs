@@ -13,7 +13,7 @@ These can be found in the [Google
 Document](https://docs.google.com/a/mozilla.com/spreadsheets/d/1m-SkuCIQEkX6pKP2
 Xb6HRyFCa2yiwJ7suyqCWMCYs7A/edit#gid=0).
 
-## Phase 1
+## Helpee
 
 ### Helpee first run
 
@@ -74,6 +74,20 @@ Covers the following user stories:
 * As a Help Requestor, I can set a friendly name, so that I can decide how other
 users identify me.
 
+### Notifications
+
+#### (Helpee) New comment on a discussion thread
+
+[![](images/spec/new-comment-notification.png)](images/spec/new-comment-notification.png)
+
+Covers the following user stories:
+
+* As a Help Requestor, I get a OS notification when someone added a comment on
+one of my discussion threads, so that I can review it quickly.
+
+
+## Helper
+
 ### Helper login
 
 Helping requires a Firefox Account (FxA).
@@ -103,6 +117,21 @@ Covers the following user stories:
 
 * As a Helper, I can set a friendly name, my preferred languages, my preferred operator and my preferred handset, so that I can define my profile.
 
+
+### A user wants to give help
+
+[![](images/spec/helper.png)](images/spec/helper.png)
+
+Covers the following user stories:
+
+* As a Helper, I can see a list of help requests matching my skills in
+chronological order, so that I can decide which request I want to address.
+* As a helper I can select a question so that I can add a comment and get visual
+confirmation of submission.
+* As a Helper, I can see my opened discussion threads at the top of the list of
+questions so that I can address them in priority.
+
+
 ### Helper history
 
 As a helper, I can access my resolved and unresolved discussion threads, so that I can get back to the information contained in these threads.
@@ -123,20 +152,25 @@ I can stop being notified when it suits me.
 threads" notifications so that I can stop being notified when it suits me.
 
 
-### A user wants to give help
+### Inappropriate question reporting
 
-[![](images/spec/helper.png)](images/spec/helper.png)
+[![](images/spec/spam-reporting.png)](images/spec/spam-reporting.png)
+
+
+### Notifications
+
+#### New comment on a discussion thread
+
+[![](images/spec/new-comment-notification-helper.png)](images/spec/new-comment-notification-helper.png)
 
 Covers the following user stories:
 
-* As a Helper, I can see a list of help requests matching my skills in
-chronological order, so that I can decide which request I want to address.
-* As a helper I can select a question so that I can add a comment and get visual
-confirmation of submission.
-* As a Helper, I can see my opened discussion threads at the top of the list of
-questions so that I can address them in priority.
+* As a helper I receive OS notifications when new comments are added by the Help
+Requester on a thread I already commented, so that I can provide further
+clarifications.
 
-### Helper-helpee conversation flow
+
+## Helper-helpee conversation flow
 
 [![](images/spec/conversation.png)](images/spec/conversation.png)
 
@@ -147,28 +181,3 @@ notify the helper that I have an answer to my question.
 * As a Help Requestor I provide feedback about my satisfaction on the help
 provided as I resolve my new discussion thread, so that I can notify the helper
 if I appreciated his help.
-
-### Notifications
-
-#### (Helpee) New comment on a discussion thread
-
-[![](images/spec/new-comment-notification.png)](images/spec/new-comment-notification.png)
-
-Covers the following user stories:
-
-* As a Help Requestor, I get a OS notification when someone added a comment on
-one of my discussion threads, so that I can review it quickly.
-
-#### (Helper) New comment on a discussion thread
-
-[![](images/spec/new-comment-notification-helper.png)](images/spec/new-comment-notification-helper.png)
-
-Covers the following user stories:
-
-* As a helper I receive OS notifications when new comments are added by the Help
-Requester on a thread I already commented, so that I can provide further
-clarifications.
-
-### Inappropriate question reporting
-
-[![](images/spec/spam-reporting.png)](images/spec/spam-reporting.png)
