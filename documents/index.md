@@ -135,6 +135,10 @@ confirmation of submission.
 * As a Helper, I can see my opened discussion threads at the top of the list of
 questions so that I can address them in priority.
 
+### Message composition
+
+[![](images/spec/helper-chat.png)](images/spec/helper-chat.png)
+
 
 ### Helper history
 
