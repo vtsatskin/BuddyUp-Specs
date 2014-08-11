@@ -80,7 +80,7 @@ users identify me.
 
 ### Notifications
 
-#### (Helpee) New comment on a discussion thread
+#### New comment on a discussion thread
 
 [![](images/spec/new-comment-notification.png)](images/spec/new-comment-notification.png)
 
