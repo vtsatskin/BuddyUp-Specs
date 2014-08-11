@@ -140,6 +140,11 @@ questions so that I can address them in priority.
 [![](images/spec/helper-chat.png)](images/spec/helper-chat.png)
 
 
+### Helper actions menu
+
+[![](images/spec/helper-actions-menu.png)](images/spec/helper-actions-menu.png)
+
+
 ### Helper history
 
 As a helper, I can access my resolved and unresolved discussion threads, so that I can get back to the information contained in these threads.
