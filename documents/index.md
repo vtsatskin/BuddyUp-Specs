@@ -15,7 +15,7 @@ Xb6HRyFCa2yiwJ7suyqCWMCYs7A/edit#gid=0).
 
 ## Helpee
 
-### Helpee first run
+### First run
 
 [![](images/spec/helpee-first-run.png)](images/spec/helpee-first-run.png)
 
@@ -24,7 +24,7 @@ Covers the following user stories:
 * As a Help Requestor, I can set a friendly name, so that I can decide how other users identify me.
 
 
-### A user wants to get help
+### Getting help
 
 [![](images/spec/helpee.png)](images/spec/helpee.png)
 
@@ -65,7 +65,7 @@ list of questions, so that I can know if he is still around.
 <video src="prototypes/question-viewers.webm" autoplay loop width="220"></video>
 
 
-### Helpee profile
+### Profile
 
 [![](images/spec/helpee-profile.png)](images/spec/helpee-profile.png)
 
@@ -92,7 +92,7 @@ one of my discussion threads, so that I can review it quickly.
 
 ## Helper
 
-### Helper login
+### Login
 
 Helping requires a Firefox Account (FxA).
 
@@ -106,7 +106,7 @@ helper.
 automatically so that I get authenticated as a BuddyUp helper
 
 
-### Helper profile
+### Profile
 
 Preferred setting are automatically generated from information on current
 device.
@@ -122,7 +122,7 @@ Covers the following user stories:
 * As a Helper, I can set a friendly name, my preferred languages, my preferred operator and my preferred handset, so that I can define my profile.
 
 
-### A user wants to give help
+### Giving help
 
 [![](images/spec/helper.png)](images/spec/helper.png)
 
@@ -145,14 +145,14 @@ questions so that I can address them in priority.
 [![](images/spec/helper-actions-menu.png)](images/spec/helper-actions-menu.png)
 
 
-### Helper history
+### History
 
 As a helper, I can access my resolved and unresolved discussion threads, so that I can get back to the information contained in these threads.
 
 [![](images/spec/helper-history.png)](images/spec/helper-history.png)
 
 
-### Helper settings
+### Settings
 
 [![](images/spec/helper-settings.png)](images/spec/helper-settings.png)
 
