@@ -53,7 +53,7 @@ help from the existing thread.
 [![](images/spec/helpful-messages.png)](images/spec/helpful-messages.png)
 
 
-### Question viewers
+### Question viewers (OLD)
 
 We want to give helpees an indication of presence of other people viewing their question. When other users (helpers and helpees) view a question, their presence
 is shown in the header.
