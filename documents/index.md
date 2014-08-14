@@ -48,6 +48,11 @@ existing thread, so that I can notify the helper that I appreciated receiving
 help from the existing thread.
 
 
+### Marking messages as helpful
+
+[![](images/spec/helpful-messages.png)](images/spec/helpful-messages.png)
+
+
 ### Question viewers
 
 We want to give helpees an indication of presence of other people viewing their question. When other users (helpers and helpees) view a question, their presence
